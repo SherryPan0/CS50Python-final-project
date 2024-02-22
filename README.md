@@ -1,7 +1,4 @@
 # Title: Search papers by author names
-## Author: Xueli Pan
-## City: Amsterdam
-## Country: Netherlands
 
 
 #### Video Demo:  <https://youtu.be/EmLQVUqLlQY>
